@@ -1,0 +1,18 @@
+label[for="visitante"]
+        {
+            color:orangered;
+            font-weight: bolder;
+            font-size: large;
+        }
+input[name="Name"]{
+            background-color:greenyellow;
+            width:150px;
+            margin-bottom: 10px;
+            border-color: lightgray;
+            border-width: 1.5px;
+        }
+input[value="Inscribirse"]{
+            background-color:white;
+            border-color: lightgray;
+            border-width: 1px;
+        }
